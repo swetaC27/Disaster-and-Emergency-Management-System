@@ -2,7 +2,7 @@
 DISASTER AND EMERGENCY MANAGEMENT APPLICATION
 ----------------------------------------------------------
 
-## Project/Problem Statement
+#### Project/Problem Statement
 
 During large-scale hazardous events, diverse relief organizations need to collaborate in order to provide relief to the affected area.
 Massive amounts of heterogeneous data need to be collected which in-turn is needed to be utilized by these relief organizations. 
@@ -10,7 +10,7 @@ Due to the lack of ICT (Information and Communication Technology) solutions, the
 these organizations while tracking victims’ needs and responding to the disaster. 
 This results in delayed or ineffective response while providing aid to the affected area.
 
-## Project Overview
+#### Project Overview
 
 The proposed system aims to aim to be a comprehensive solution for information management in relief operations. This
 platform provides means to effectively manage massive amounts of data including data about the affected area, about victims
@@ -18,9 +18,7 @@ and relief personnel, a repository where relief organizations, relief workers, g
 requests of aid with pledges of support, thus being able to help the inflicted people at the earliest.
 
 
-
-
-## Application Key Functionalities
+#### Application Key Functionalities
 
 1. Situation Awareness: The platform provides information and helps create awareness about the incident to the affected and
 those willing to assist through collaboration between organizations and volunteers.
@@ -36,6 +34,6 @@ accessed.
 7. Volunteer coordination: This gives a list of the volunteers who have signed up, enabling the organizations to use them as
 resources in aiding based on the details provided by the volunteers.  
 
-## Additional Features
+#### Additional Features
 1. Messaging/Alert - This application will provide the support for mailing and messaging. Distribution groups will be set up to allow messages to be easily sent to many people at once.
 2. Maps - Maps can be used to show location-based data in order to create situational awareness which is essential while planning to prepare for or respond to a disaster. 
